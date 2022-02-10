@@ -137,7 +137,7 @@ void Repository::removeSingleCoat(Coat c) {
 void Repository::readCoats(string file_name)
 {
     ifstream f;
-    f.open("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\yea.txt");
+    f.open("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\data.txt");
     if(!f.is_open())
         return;
     Coat c{};
@@ -149,9 +149,9 @@ void Repository::readCoats(string file_name)
 }
 
 void Repository::writeCoats() {
-    ofstream f("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\yea.txt",ios::trunc);
+    ofstream f("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\data.txt",ios::trunc);
     f.close();
-    f.open("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\yea.txt",ios::app);
+    f.open("D:\\GitHub\\a10-912-Campean-Tudor-Alexandru-1\\data.txt",ios::app);
 
     if(!f.is_open())
         throw exception();

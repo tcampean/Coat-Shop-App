@@ -315,7 +315,7 @@ User::User(QWidget *parent) {
     this->shopping = false;
     this->index = 0;
     this->userConnector();
-    this->serv.repo.readCoats("yea.txt");
+    this->serv.repo.readCoats("data.txt");
     this->table = new CoatTableModel{this->shoppingCart};
 
 
