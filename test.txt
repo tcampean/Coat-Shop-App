@@ -1,0 +1,10 @@
+XXLL,Red,500,2,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+XXL,Red,5600,1,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+L,Blue,520,5,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+M,Yellow,2500,1,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+M,Green,5200,7,https://trenchlondon.com/collections/mens/products/m101sea60222n12
+XL,Yellow,45000,2,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+L,Red,500,3,https://trenchlondon.com/collections/mens/products/m101sea60222a10
+M,Black,5200,4,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+L,Black,500,1,https://ro.burberry.com/knitted-stripe-detail-technical-cotton-car-coat-p80385801
+XXL,Blue,53,23,https://trenchlondon.com/products/m101sea60222n15?_pos=2&_sid=77bf720ef&_ss=r

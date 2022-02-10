@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a10_912_Campean_Tudor_Alexandru_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a10_912_Campean_Tudor_Alexandru_1">
+				<Option output="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/a10_912_Campean_Tudor_Alexandru_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App"/>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App/."/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 a10_912_Campean_Tudor_Alexandru_1"/>
+					<CompileFile command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a10_912_Campean_Tudor_Alexandru_1/fast">
+				<Option output="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/a10_912_Campean_Tudor_Alexandru_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App"/>
+					<Add directory="E:/GitHubProjects/Coat-Shop-App/."/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 a10_912_Campean_Tudor_Alexandru_1/fast"/>
+					<CompileFile command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/GitHubProjects/Coat-Shop-App/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/CSVRepository.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/CSVRepository.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Coat.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Coat.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/CoatTableModel.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/CoatTableModel.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/GUI.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/GUI.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/HTMLRepository.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/HTMLRepository.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Repository.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Repository.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Service.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Service.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/UI.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/UI.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/UndoRedo.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/UndoRedo.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Validators.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/Validators.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/WriteRepository.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/WriteRepository.h">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/main.cpp">
+			<Option target="a10_912_Campean_Tudor_Alexandru_1"/>
+		</Unit>
+		<Unit filename="E:/GitHubProjects/Coat-Shop-App/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
