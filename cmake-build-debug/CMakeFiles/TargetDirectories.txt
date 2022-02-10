@@ -1,3 +1,4 @@
-E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir
-E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/GitHubProjects/Coat-Shop-App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir
+D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1_autogen.dir

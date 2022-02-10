@@ -1,25 +1,51 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/CSVRepository.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CSVRepository.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/Coat.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Coat.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/CoatTableModel.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CoatTableModel.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/GUI.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/GUI.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/HTMLRepository.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/HTMLRepository.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/Repository.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Repository.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/Service.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Service.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/UI.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UI.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/UndoRedo.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UndoRedo.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/Validators.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Validators.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/WriteRepository.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/WriteRepository.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/a10_912_Campean_Tudor_Alexandru_1_autogen/mocs_compilation.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/a10_912_Campean_Tudor_Alexandru_1_autogen/mocs_compilation.cpp.obj"
+  "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/main.cpp" "D:/GitHub/a10-912-Campean-Tudor-Alexandru-1/cmake-build-debug/CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/main.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "MINGW_HAS_SECURE_API=1"
+  "QT_CORE_LIB"
+  "QT_GUI_LIB"
+  "QT_WIDGETS_LIB"
+  "UNICODE"
+  "WIN32"
+  "WIN64"
+  "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+  "_UNICODE"
+  "_WIN32_WINNT=0x0601"
+  "_WIN64"
   )
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/GitHubProjects/Coat-Shop-App/CSVRepository.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CSVRepository.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CSVRepository.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/Coat.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Coat.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Coat.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/CoatTableModel.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CoatTableModel.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/CoatTableModel.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/GUI.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/GUI.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/GUI.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/HTMLRepository.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/HTMLRepository.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/HTMLRepository.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/Repository.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Repository.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Repository.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/Service.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Service.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Service.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/UI.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UI.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UI.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/UndoRedo.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UndoRedo.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/UndoRedo.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/Validators.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Validators.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/Validators.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/WriteRepository.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/WriteRepository.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/WriteRepository.cpp.obj.d"
-  "E:/GitHubProjects/Coat-Shop-App/main.cpp" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/main.cpp.obj" "gcc" "CMakeFiles/a10_912_Campean_Tudor_Alexandru_1.dir/main.cpp.obj.d"
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "."
+  "../"
+  "a10_912_Campean_Tudor_Alexandru_1_autogen/include"
+  "../."
+  "D:/Qt/6.0.3/mingw81_64/include/QtCore"
+  "D:/Qt/6.0.3/mingw81_64/include"
+  "D:/Qt/6.0.3/mingw81_64/mkspecs/win32-g++"
+  "D:/Qt/6.0.3/mingw81_64/include/QtGui"
+  "D:/Qt/6.0.3/mingw81_64/include/QtWidgets"
   )
 
 # Targets to which this target links.
